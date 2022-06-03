@@ -7,3 +7,5 @@ Netflix intro animation pure css
 * CSS
 
 ## View live site
+
+https://peter-kimanzi.github.io/Netflix-intro-animation/
