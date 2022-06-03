@@ -2,4 +2,4 @@
 
 Netflix intro animation pure css
 
-## 
+## Technologies used
