@@ -12,7 +12,7 @@ Netflix intro animation pure css
 https://peter-kimanzi.github.io/Netflix-intro-animation/
 
 
-##screenshots
+## Screenshots
 
 ![net](https://user-images.githubusercontent.com/71552773/171847182-15165fb6-ded6-4d42-9946-4a01ed7d57ea.PNG)
 
